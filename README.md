@@ -59,7 +59,7 @@ In many shops, support staff need a consistent toolset without deploying apps to
 Import-Module ISEAddonMenu.cmdlets
 ```
 
-### Option B: PowerShell Gallery (if/when published)
+### Option B: PowerShell Gallery
 ```powershell
 Install-Module ISEAddonMenu.cmdlets -Scope CurrentUser
 Import-Module ISEAddonMenu.cmdlets
